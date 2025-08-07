@@ -1,0 +1,7 @@
+{
+    "venta":[       
+            {"mes":"enero","cantidad":120},
+            {"mes":"febrero","cantidad":100},
+            {"mes":"marzo","cantidad":110}      
+    ]
+}
